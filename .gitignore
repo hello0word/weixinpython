@@ -15,4 +15,4 @@ build
 db.ini
 deploy_key_rsa
 wxpy.pkl
-.idea
+.idea/
